@@ -9,7 +9,4 @@ const user = {
 
 const cli = new RestClient('http://dms.cyberdelia.eu/api/v1');
 
-cli.get('user')
-.then(data=>{
-    console.log(data);
-})
+cli.get('user');
