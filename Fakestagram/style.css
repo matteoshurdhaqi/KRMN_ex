@@ -74,7 +74,7 @@
 }
 .card_container{
     width: 24vw;
-    margin: 4% auto;
+    margin: 5% auto;
     margin-bottom:5%;
 }
 .card_header{
@@ -176,4 +176,9 @@
     align-items: center;
     justify-content: space-evenly;
     width: 100%;
+}
+
+footer p{
+    font-weight: 200;
+    color: rgb(113, 113, 113);
 }
