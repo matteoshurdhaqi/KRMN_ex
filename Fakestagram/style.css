@@ -45,6 +45,7 @@
     margin-top: 2%;
     margin-left: 5%;
     margin-right: 10%;
+    margin-bottom: 10%;
 }
 .stories_options{
     display: flex;
@@ -98,7 +99,7 @@
     border-radius: 5px;
 }
 .card_links{
-    min-width: 250px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
 }
